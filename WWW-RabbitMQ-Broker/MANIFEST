@@ -5,4 +5,5 @@ Todo
 Changes
 Makefile.PL
 lib/WWW/RabbitMQ/Broker.pm
+lib/WWW/RabbitMQ/Broker/Shovel.pm
 t/001_load.t
